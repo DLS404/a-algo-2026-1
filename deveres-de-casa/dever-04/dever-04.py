@@ -6,7 +6,7 @@ def F(n):
 
 
 def main():
-    n = 25  # coloque algum valor abaixo ou até 30 aqui
+    n = 25  # coloque algum valor até 30 aqui
     resultado = F(n)
     print(f"F({n}) = {resultado}")
 
